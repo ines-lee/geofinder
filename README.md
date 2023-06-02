@@ -13,11 +13,14 @@ Before running the project, make sure you have the following:
 
 1. Add your Google Maps API key in the `main.ts` file:
 
+```
 app.use(VueGoogleMaps, {
 load: {
 key: '#insert your key here#',
 libraries: "places"
 },
+```
+
 ## Project setup
 
 ```
