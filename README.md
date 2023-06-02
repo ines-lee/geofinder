@@ -2,6 +2,10 @@
 
 This project is a Vue.js application using Vuetify framework that utilizes Google Maps. Follow the instructions below to set up and run the project.
 
+preview:
+<img width="1606" alt="Pasted Graphic" src="https://github.com/ines-lee/geofinder/assets/48703812/6a6180d7-94ce-4c77-a7dc-9427812c74a2">
+
+
 ## Prerequisites
 
 Before running the project, make sure you have the following:
@@ -76,3 +80,5 @@ pnpm lint
 ### Customize configuration
 
 See [Configuration Reference](https://vitejs.dev/config/).
+
+
